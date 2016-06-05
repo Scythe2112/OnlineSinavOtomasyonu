@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://obs.firat.edu.tr/miner/proliz_data_miner.asmx?op=OgrenciGirisKontrolGetir" uri="src/conf/xml-resources/web-service-references/proliz_data_miner/wsdl/obs.firat.edu.tr/miner/proliz_data_miner.asmx.op_ogrencigiriskontrolgetir"/>
+    <system systemId="https://obs.firat.edu.tr/miner/proliz_data_miner.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/proliz_data_miner/wsdl/obs.firat.edu.tr/miner/proliz_data_miner.asmx.wsdl"/>
+    <system systemId="http://obs.firat.edu.tr/miner/proliz_data_miner.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/proliz_data_miner/wsdl/obs.firat.edu.tr/miner/proliz_data_miner.asmx.wsdl"/>
+    <system systemId="http://obs.firat.edu.tr/miner/proliz_data_miner.asmx" uri="src/conf/xml-resources/web-service-references/proliz_data_miner/wsdl/obs.firat.edu.tr/miner/proliz_data_miner.asmx"/>
+    <system systemId="http://obs.firat.edu.tr/miner/proliz_data_miner.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/proliz_data_miner/wsdl/obs.firat.edu.tr/miner/proliz_data_miner.asmx.wsdl"/>
+</catalog>
